@@ -1,0 +1,22 @@
+{
+  "name": "robinhood-extras",
+  "version": "1.0.0",
+  "description": "Additional functionality for robinhood data",
+  "main": "index.js",
+  "scripts": {
+    "test": "not supported"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twvm/robinhood-extras.git"
+  },
+  "keywords": [
+    "robinhood"
+  ],
+  "author": "Vinod Mahalingam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twvm/robinhood-extras/issues"
+  },
+  "homepage": "https://github.com/twvm/robinhood-extras#readme"
+}
